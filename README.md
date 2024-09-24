@@ -2,7 +2,7 @@
 
 🌍 I have a passion for languages and love connecting with people. I can hold conversations in Japanese, German, English, and my native Turkish.
 
-🌱 I’m currently learning C and C++ at 42 Turkey.
+🌱 I’m currently learning C and C++ at 42 Türkiye.
 
 💻 I haven’t decided on a specific path in programming yet, but I’m exploring various fields to find where I can make a meaningful impact and truly enjoy my work.
 
