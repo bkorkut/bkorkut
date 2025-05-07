@@ -1,6 +1,6 @@
 👋 Hi, I’m Betül.
 
-🌍 I have a passion for languages and love connecting with people. I can hold conversations in Japanese, German, English, and my native Turkish.
+🌍 I have a passion for languages and love connecting with people. I can hold conversations in English, German, Japanese, and my native Turkish.
 
 🌱 I’m currently learning C and C++ at 42 Türkiye.
 
